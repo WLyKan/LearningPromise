@@ -1,2 +1,0 @@
-# LearningPromise
-Created with CodeSandbox
